@@ -24,4 +24,21 @@ pada gambar dan link diatas adalah hasil dari kita menggunakan layanan draw io t
 
 2. layanan non cloud
 
+![4](https://user-images.githubusercontent.com/92331446/155360486-ee27f7c2-20d8-423c-9db6-bf6b8d5f33f9.JPG)
 
+pada layanan untuk membuat diagram non cloud saya menggunakan yed graph editor yang didapatkan pada link https://www.yworks.com/products/yed/download kemudian download sesuai dengan versi laptop kita 
+
+![5](https://user-images.githubusercontent.com/92331446/155361416-21ebe4e9-7b22-4e1e-a595-5a628976f1a4.JPG)
+
+setelah selesai melakukan tahap download maka aplikasi tersebut akan otomatis muncul di dekstop dan sudah bisa digunakan
+
+
+![6](https://user-images.githubusercontent.com/92331446/155361739-f3d9588d-2b16-48c7-a561-2641d68aa5f0.JPG)
+
+pada gambar diatas adalah tampilan aplikasi yed graph editor setelah dibuka maka kita sudah bisa menggunakan layanan terebut sesuai dengan kebutuhan kita
+
+
+ 
+![coba diagram](https://user-images.githubusercontent.com/92331446/155366812-6ff9be57-c656-4fa7-a1e0-3eada8177307.jpg)
+
+pada gambar diatas adalah hasil kerja diagram flowchart yang dibuat di yed graph editor yaitu layanan non cloud.
