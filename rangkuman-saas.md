@@ -17,7 +17,8 @@ Ini agak mirip dengan IaaS tetapi perbedaannya adalah:
 •	Pengembang menyediakan aplikasi yang dijalankan oleh platform.
 •	Mereka tidak secara langsung membuat VM.
 Anda akan berpikir bahwa PaaS sederhana dan itulah sebabnya banyak digunakan. Tapi ini tidak benar. IaaS 10 kali lebih populer dari PaaS. Pengembang ingin memiliki kontrol lebih besar atas sumber daya.
- 
+ ![image](https://user-images.githubusercontent.com/92331446/155521594-590ceedd-4320-4a16-a2c9-ec814c1e54e0.png)
+
 
 2. Arsitektur Platform SAAS (Perangkat Lunak sebagai Layanan)
 
